@@ -1,4 +1,9 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 .cabecalho {
+
     background-color: #bd6600;
     color: white;
     display: flex;
