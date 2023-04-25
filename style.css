@@ -70,3 +70,13 @@ body {
     display: grid;
     grid-template-columns: 10% 20% 20% 20% 20% 10%;
   }
+
+  .rodape {
+    background-color: #bd6600;
+    text-align: center;
+  }
+
+  .imagem-rodape{
+    height: 40px;
+    padding: 16px 0;
+  }
