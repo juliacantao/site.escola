@@ -53,9 +53,20 @@ body {
 
   .imagem-icone {
     width: 24px;
+    padding: 4px 8px;
   }
 
   .div-estudantes {
     text-align: center;
     padding: 16px 0;
+  }
+
+    .titulo-estudantes {
+      text-align: center;
+      padding: 16px 0;
+    }
+
+  .div-todos {
+    display: grid;
+    grid-template-columns: 10% 20% 20% 20% 20% 10%;
   }
